@@ -1,1 +1,1 @@
-I'm just casually traversing through leetcode 150 again to keep meself sharp and fit. No vibe coding. Updated rarely and irregularly as it's mostly recreational and for myself.
+I'm just casually traversing through leetcode 150 again to keep meself sharp and fit. No vibe coding. Updated rarely and irregularly as it's recreational and I'm mostly doing it for myself. But also I'm making it in a way that shows my mistakes on the road etc. so that it could be a nice human written source if you're studying these questions at the moment.
